@@ -2,4 +2,4 @@
 
 **暂停更新**
 
-[网站](https://heigeyuan.us)
+[网站](https://heigeyuan.us/)
