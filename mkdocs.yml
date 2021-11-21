@@ -1,0 +1,69 @@
+site_name: 黑鸽院 X US
+site_url: https://heigeyuan.us/
+site_description: 黑鸽院 X US
+
+repo_url: https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse
+repo_name: qiaoshouzi/HeiGeYuan-General-Warehouse
+edit_uri: ""
+
+theme:
+  name: material
+  custom_dir: custom_theme/
+  favicon: favicon.ico
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      toggle:
+        icon: material/weather-night
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs.sticky
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - 首页: 'index.md'
+  - 节点: 'nodes.md'
+  - 玩家守则: 'rules.md'
+  - 帮助中心:
+    - '首页': 'Help\index.md'
+    - '新手入服教程': 'Help\new.md'
+  - 图片展示:
+    - '首页': 'PicturesShow\index.md'
+    - 'Cat': 'PicturesShow\Cat.md'
+    - 'FantasyZone': 'PicturesShow\FantasyZone.md'
+    - '雫 API': 'PicturesShow\Lazy_API.md'
+  - 创造服: 'cz\index.md'
+  - VNの地图线路图:
+    - '最新版本': 'VNPicture\latest_version.md'
+    - '历史版本': 'VNPicture\history_version.md'
