@@ -54,6 +54,7 @@ markdown_extensions:
 nav:
   - 首页: 'index.md'
   - 节点: 'nodes.md'
+  - 状态页: 'state.md'
   - 玩家守则: 'rules.md'
   - 帮助中心:
     - '首页': 'Help\index.md'
