@@ -8,9 +8,9 @@
 
 ## 注册账号
 
-如果你有**Mojang正版账号**(目前不支持**微软账号**登陆), 你可以直接点击[这里](https://hskin.icu/auth/login)使用你的**邮箱**和**密码**进行登陆
+如果你有**Mojang正版账号**(目前不支持**微软账号**登陆), 你可以直接点击[这里](https://hskin.h.hsyhx.top/auth/login)使用你的**邮箱**和**密码**进行登陆
 
-如果你没有**Mojang正版账号**或者你是**微软账号**，那么你可以[点击](https://hskin.icu/auth/register)这里进行注册
+如果你没有**Mojang正版账号**或者你是**微软账号**，那么你可以[点击](https://hskin.h.hsyhx.top/auth/register)这里进行注册
 
 注册/登陆完成后，请查看你的邮箱，在那里会有一封邮件，点击链接验证您的邮箱，请认准 发件人为 **hi@hgy.ooo**，链接域名为 **hskin.icu**
 
